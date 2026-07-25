@@ -1,16 +1,28 @@
-## Hi there 👋
+### Hi, I'm Heewon 👋
 
-<!--
-**joyhwp/joyhwp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Statistics & Computer Science student at Korea University, exploring the intersection of data analysis, machine learning, and multimodal AI.
 
-Here are some ideas to get you started:
+- 🧠 Interested in NLP, LLM-based data processing, and building reliable data pipelines
+- 🌱 Recently worked on an industry-academia project applying VLM-based embeddings to customer experience analysis
+- 🌏 Native-level bilingual (English/Korean)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠 Tech Stack
+
+`Python` `R` `SQL` `scikit-learn` `pandas` `Selenium` `UMAP` `HDBSCAN` `Tableau`
+
+---
+
+### 📌 Projects
+
+| Project | Description |
+|---|---|
+| [LG Multimodal CEJ Analysis](https://github.com/joyhwp/lg_multimodal_cej_analysis) | Industry-academia project analyzing customer experience via text-image clustering (Qwen3-VL-Embedding, UMAP, HDBSCAN) |
+| [Personal Projects](https://github.com/joyhwp/personal_projects) | NLP, classification, regression, clustering, and web crawling projects |
+
+---
+
+### 📫 Contact
+
+- Email: joycephwpark@gmail.com
