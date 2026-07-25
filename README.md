@@ -10,7 +10,7 @@ Statistics & Computer Science student at Korea University, exploring the interse
 
 ### 🛠 Tech Stack
 
-`Python` `R` `SQL` `scikit-learn` `pandas` `Selenium` `UMAP` `HDBSCAN` `Tableau`
+`Python` `R` `scikit-learn` `pandas` `Selenium` `UMAP` `HDBSCAN` `Tableau`
 
 ---
 
