@@ -1,19 +1,3 @@
-### Hi, I'm Heewon 👋
-
-Statistics & Computer Science student at Korea University, exploring the intersection of data analysis, machine learning, and multimodal AI.
-
-- Interested in NLP, LLM-based data processing, and building reliable data pipelines
-- Recently worked on an industry-academia project applying VLM-based embeddings to customer experience analysis
-- Native-level bilingual (English/Korean)
-
----
-
-### 🛠 Tech Stack
-
-`Python` `R` `scikit-learn` `pandas` `Selenium` `UMAP` `HDBSCAN` `Tableau`
-
----
-
 ### 📌 Projects
 
 | Project | Description |
