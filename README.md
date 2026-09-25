@@ -1,4 +1,4 @@
-### 📌 Projects
+### 📌 Main Projects
 
 | Project | Description |
 |---|---|
