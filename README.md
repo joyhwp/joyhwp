@@ -8,6 +8,3 @@
 
 ---
 
-### 📫 Contact
-
-- Email: 2024150477@korea.ac.kr
